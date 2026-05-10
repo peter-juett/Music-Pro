@@ -52,4 +52,4 @@ Chord names and jazz symbols appear in the status area; the staff shows notehead
 
 ## License
 
-Add a license file if you plan to open-source this repo (e.g. MIT).
+This project is licensed under the [MIT License](LICENSE).
